@@ -5,7 +5,7 @@ namespace AdapterConsole
 	/// <summary>
 	/// Summary description for Turkey.
 	/// </summary>
-	public interface Turkey
+	public interface Turkey // Турецкая утка
 	{
 		string Gobble();
 		string Fly();
