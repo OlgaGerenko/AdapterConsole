@@ -9,5 +9,6 @@ namespace AdapterConsole
 	{
 		string Quack();
 		string Fly();
+        string Info();
 	}
 }

@@ -33,6 +33,10 @@ namespace AdapterConsole
 			}
 			return sb.ToString();
 		}
+        public string Info()
+        {
+            return "I'm Turkey Duck";
+        }
 
 		#endregion
 	}

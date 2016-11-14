@@ -10,3 +10,9 @@ D:\Проекты 2016\AdapterConsole\AdapterConsole\AdapterConsole\obj\Debug\Ad
 D:\Проекты 2016\AdapterConsole\AdapterConsole\AdapterConsole\bin\Debug\AdapterConsole.exe
 D:\Проекты 2016\AdapterConsole\AdapterConsole\AdapterConsole\bin\Debug\AdapterConsole.pdb
 D:\Проекты 2016\AdapterConsole\AdapterConsole\AdapterConsole\obj\Debug\AdapterConsole.csprojResolveAssemblyReference.cache
+C:\AdapterConsole\bin\Debug\AdapterConsole.exe.config
+C:\AdapterConsole\obj\Debug\AdapterConsole.exe
+C:\AdapterConsole\obj\Debug\AdapterConsole.pdb
+C:\AdapterConsole\obj\Debug\AdapterConsole.csprojResolveAssemblyReference.cache
+C:\AdapterConsole\bin\Debug\AdapterConsole.exe
+C:\AdapterConsole\bin\Debug\AdapterConsole.pdb

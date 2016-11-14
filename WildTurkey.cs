@@ -21,7 +21,10 @@ namespace AdapterConsole
 		{
 			return "I'm flying a short distance";
 		}
-
+        public string Info()
+        {
+            return "I'm WildTurkey Duck";
+        }
 		#endregion
 	}
 }

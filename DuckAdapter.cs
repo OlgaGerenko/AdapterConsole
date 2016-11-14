@@ -26,7 +26,10 @@ namespace AdapterConsole
 		{
 			return duck.Fly();
 		}
-
+        public string Info()
+        {
+            return "I'm Turkey Duck";
+        }
 		#endregion
 	}
 }
